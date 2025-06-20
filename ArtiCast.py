@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# pyright: reportIgnoreCommentWithoutRule=false
 # pyright: reportMissingTypeStubs=false, reportUnknownMemberType=false
 
 import os
